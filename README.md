@@ -81,13 +81,13 @@ This project uses `react-router-dom` for smooth navigation:
 ![Image](https://github.com/user-attachments/assets/e9ca7bec-1ba2-4fd8-b403-f1707446fc9f)
 
 ### Nutrition Guide
-![Image](https://github.com/user-attachments/assets/3a60e777-145a-4eb8-b785-a43abeb5a297)
+![Image](https://github.com/user-attachments/assets/6c84b665-c6a1-4ce1-ad8f-430c0097de92)
 
 ### Memberships
 ![Image](https://github.com/user-attachments/assets/1f756d41-2f98-48a4-adec-f005d334b577)
 
 ### Testimonials
-![Image](https://github.com/user-attachments/assets/6c84b665-c6a1-4ce1-ad8f-430c0097de92)
+![Image](https://github.com/user-attachments/assets/3a60e777-145a-4eb8-b785-a43abeb5a297)
 
 ### Contact Page
 ![Image](https://github.com/user-attachments/assets/47151b86-978e-4321-b98c-20c31286b1bb)
