@@ -2,7 +2,6 @@
 
 A modern **Fitness Hub** website built with **React.js** and **React Router** to provide users with workout plans, nutrition guides, memberships, testimonials, and contact details.
 
-![FitLife Hub Banner](./assets/banner.png)
 
 ## 🚀 Features
 - **Client-side routing** using `react-router-dom`
