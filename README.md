@@ -75,22 +75,22 @@ This project uses `react-router-dom` for smooth navigation:
 
 ## 📸 Screenshots
 ### Homepage
-![Image](https://github.com/user-attachments/assets/af8ac488-005d-443b-926d-3ce47db8836b)
+![Image](https://github.com/user-attachments/assets/06ca507d-87d1-458b-9c08-7fdf35d162b8)
 
 ### Workout Plans
-![Image](https://github.com/user-attachments/assets/e9ca7bec-1ba2-4fd8-b403-f1707446fc9f)
+![Image](https://github.com/user-attachments/assets/006a1a8f-a0d4-4a3b-bcd0-f069818ff25d)
 
 ### Nutrition Guide
-![Image](https://github.com/user-attachments/assets/6c84b665-c6a1-4ce1-ad8f-430c0097de92)
+![Image](https://github.com/user-attachments/assets/32f9ce36-f72d-4ff0-87f6-0843018990a2)
 
 ### Memberships
-![Image](https://github.com/user-attachments/assets/1f756d41-2f98-48a4-adec-f005d334b577)
+![Image](https://github.com/user-attachments/assets/57c1489f-0c09-49d0-b504-b2bad22f96e2)
 
 ### Testimonials
-![Image](https://github.com/user-attachments/assets/3a60e777-145a-4eb8-b785-a43abeb5a297)
+![Image](https://github.com/user-attachments/assets/67203f7e-1dc3-4043-9211-07bd1a8f4dff)
 
 ### Contact Page
-![Image](https://github.com/user-attachments/assets/47151b86-978e-4321-b98c-20c31286b1bb)
+![Image](https://github.com/user-attachments/assets/4a0657db-5eb5-4549-bf7d-a789221d23fa)
 
 
 ---
